@@ -18,7 +18,7 @@ KEYWORDS="~amd64 ~x86 ~arm64 ~arm"
 RESTRICT="bindist mirror"
 S="${WORKDIR}/usr/share/fonts/${PN}"
 FONT_S="${S}"
-FONT_CONF=( "${FILESDIR}/66-${PN}.conf" )
+FONT_CONF=( "${FILESDIR}/75-${PN}.conf" )
 FONT_SUFFIX="ttf"
 DEPEND="
 	app-arch/libarchive[zstd]"
