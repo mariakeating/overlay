@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+    <repo quality="experimental" status="unofficial">
+        <name>maria-overlay</name>
+        <description lang="en">Maria's Gentoo Overlay.</description>
+        <homepage>https://github.com/mariakeating/overlay</homepage>
+        <owner type="person">
+            <name>Maria Keating</name>
+            <email>maria.keating@posteo.net</email>
+        </owner>
+        <source type="git">git://github.com/mariakeating/overlay.git</source>
+        <feed>https://github.com/mariakeating/overlay/commits/master.atom</feed>
+    </repo>
+</repositories>
